@@ -1,4 +1,5 @@
-####  깃허브 vscode 연동 , pull commit push 관련 질문은 캡처해서 연락 주세유 _준희
+####  깃허브 vscode 연동 , pull commit push 관련 질문은 
+####  캡처해서 디코 연락 주세유 _준희
 
 안녕하세요
 !!
